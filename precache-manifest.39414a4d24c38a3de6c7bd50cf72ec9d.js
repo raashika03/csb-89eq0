@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "82a10f110307f2b06f16",
-    "url": "https://raashika03.github.io/csb-89eq0/static/css/main.c60726c7.chunk.css"
+    "revision": "e9ce2ca0109c24ffda74",
+    "url": "https://raashika03.github.io/csb-89eq0/static/css/main.7d8ee821.chunk.css"
   },
   {
-    "revision": "82a10f110307f2b06f16",
-    "url": "https://raashika03.github.io/csb-89eq0/static/js/main.8570e0fc.chunk.js"
+    "revision": "e9ce2ca0109c24ffda74",
+    "url": "https://raashika03.github.io/csb-89eq0/static/js/main.af0cb3e8.chunk.js"
   },
   {
     "revision": "fac07dc537647890c5bb",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://raashika03.github.io/csb-89eq0/static/js/2.10f4b8ce.chunk.js"
   },
   {
-    "revision": "8797ab82c2561408a53231499f6258f8",
+    "revision": "6ac922bd758866e922739e4988b5d276",
     "url": "https://raashika03.github.io/csb-89eq0/index.html"
   }
 ];
